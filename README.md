@@ -29,8 +29,5 @@ tions. There is also necessary to have installed the next plugins:
 provides with 3D Tiles and cloud-based real-world content from Cesium ion to Unreal Engine.
 * TCP Sockets plugnin: It is a software structure that allows communication through the network between a client and a server
 
-## Result of the project
-For the execution of this project, is necessary to clone the repository in the ros workspace. After catkin_make it, it is only necessary to run the following command:
-```console
-roslaunch assignment1_EXP sim_aruco.launch
-```
+## Possible improvements
+Possible improvement for this project could be to include a planner algorithm according to the limitations of the map and the desired goal, not only by counting with the places provided by the dataset. In this way, there would be a more effective navigation to some places not taken into account before.
