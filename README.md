@@ -15,7 +15,7 @@ highlights the potential impact of such technology on real-world scenarios
 
 ## Tools used
 For the execution of the project it is necessary to have installed the following tools on Windows 10
-* (Colloseum)[https://github.com/CodexLabsLLC/Colosseum]: It is a simulator for robotic, autonomous systems, specifically drone testing, built on Unreal Engine. Is
+* [Colloseum](https://github.com/CodexLabsLLC/Colosseum): It is a simulator for robotic, autonomous systems, specifically drone testing, built on Unreal Engine. Is
 open-source and cross platform, and is a fork of AirSim, that Microsoft shutdown on 2022 and allows
 maintenance and support for newer versions of Unreal Engine. It provides a high quality simulation
 environment that simulates with high fidelity all the dynamics of aerial vehicles.
