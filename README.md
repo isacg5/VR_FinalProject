@@ -40,6 +40,7 @@ Possible improvement for this project could be to include a planner algorithm ac
 <p align="justify">
   Below you can find a video that shows the whole behavior of the poject
 </p>
+
 [![Watch the video](https://github.com/isacg5/VR_FinalProject/tree/main/resources/pic.png)](https://youtu.be/fnaDAoXy14A)
 
 
