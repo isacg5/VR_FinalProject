@@ -33,6 +33,19 @@ Other tools that have been used for the development of the proeject:
 * D-flight website: This tools allows to have knowledge about the aerial restrictions for the drones, such as restricted zones
 or restricted heights to flight.
 
+## How to run it?
+*Clone the repository:
+```console
+git clone https://github.com/isacg5/VR_FinalProject.git
+```
+*Make sure you put settings.json under Airsim folder of your installation
+*Run the script for the drone:
+```console
+python ./script.py
+```
+* Get Unreal Engine project [here](https://www.google.com) (you will need permissions from the owner)
+* Run Unreal Engine project
+  
 ## Possible improvements
 Possible improvement for this project could be to include a planner algorithm according to the limitations of the map and the desired goal, not only by counting with the places provided by the dataset. In this way, there would be a more effective navigation to some places not taken into account before.
 
