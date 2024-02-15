@@ -34,12 +34,12 @@ Other tools that have been used for the development of the proeject:
 or restricted heights to flight.
 
 ## How to run it?
-*Clone the repository:
+* Clone the repository:
 ```console
 git clone https://github.com/isacg5/VR_FinalProject.git
 ```
-*Make sure you put settings.json under Airsim folder of your installation
-*Run the script for the drone:
+* Make sure you put settings.json under Airsim folder of your installation
+* Run the script for the drone:
 ```console
 python ./script.py
 ```
