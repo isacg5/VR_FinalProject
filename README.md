@@ -43,7 +43,7 @@ git clone https://github.com/isacg5/VR_FinalProject.git
 ```console
 python ./script.py
 ```
-* Get Unreal Engine project [here](https://www.google.com) (you will need permissions from the owner)
+* Get Unreal Engine project [here](https://drive.google.com/file/d/16SDnIW55tgQ5PkLG_GllZlzBdWDm89pP/view?usp=drive_link) (you will need permissions from the owner)
 * Open the project, and go to Content Drawer -> select Cesium level
 * Run Unreal Engine project by clicking on play
   
