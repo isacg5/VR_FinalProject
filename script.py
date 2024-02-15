@@ -79,7 +79,7 @@ class ReachArea():
         print("Make sure we are hovering at {} meters...".format(-z))
         client.moveToZAsync(z, 6).join()
     
-        self.going_to(places[data.hex()][2], [-2.5, -9.1, -50, 10, 50])
+        self.going_to(places[data.hex()][2], [-1.2, -9.5, -50, 10, 50])
         self.landing(-0.5)
 
     
