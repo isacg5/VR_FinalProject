@@ -1,8 +1,8 @@
 # Final Project of Virtual Reality for Robotics
 ## Group Members | Name-Surname & GitHub Account
-* Chloé Bohler |
+* Chloé Bohler | [@Naochloe2](https://github.com/Naochloe2)
 * Baris Aker | [@barisakerr](https://github.com/barisakerr)
-* Abdelouadoud Guelmami
+* Abdelouadoud Guelmami | [wadoud01](https://github.com/wadoud01)
 * Isabel Cebollada Gracia | [@isacg5](https://github.com/isacg5)
 
 ## Introduction
