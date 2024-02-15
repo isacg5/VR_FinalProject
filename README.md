@@ -44,7 +44,8 @@ git clone https://github.com/isacg5/VR_FinalProject.git
 python ./script.py
 ```
 * Get Unreal Engine project [here](https://www.google.com) (you will need permissions from the owner)
-* Run Unreal Engine project
+* Open the project, and go to Content Drawer -> select Cesium level
+* Run Unreal Engine project by clicking on play
   
 ## Possible improvements
 Possible improvement for this project could be to include a planner algorithm according to the limitations of the map and the desired goal, not only by counting with the places provided by the dataset. In this way, there would be a more effective navigation to some places not taken into account before.
